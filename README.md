@@ -1,16 +1,23 @@
-## Hi there 👋
+# Menghao Deng
 
-<!--
-**MenghaoDeng/MenghaoDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+邓梦毫 · Year 2 PhD Student in Finance
 
-Here are some ideas to get you started:
+I am a second-year PhD student in Finance at HKU Business School, The University of Hong Kong. I received my BSc in Mathematics from HKU in 2025. I have a special interest in textual analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Personal website → menghaodeng.github.io](https://menghaodeng.github.io/)**
+
+## Research interests
+
+- Quantitative Research
+- Machine Learning
+- Behavioral Finance
+- Textual Analysis
+- AI for Business
+- Corporate Finance
+- FinTech
+
+## Links
+
+- [HKU profile](https://www.hkubs.hku.hk/people/menghao-deng/)
+- [LinkedIn](https://www.linkedin.com/in/menghaodeng/)
+- [Research GitHub account](https://github.com/thenextvictim)
